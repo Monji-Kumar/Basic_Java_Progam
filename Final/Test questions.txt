@@ -1,0 +1,6 @@
+take one para from user check repetion of the word in the para each word count
+qspider is a training institute, qspider is the best training institute.
+
+reverse the string name
+
+find the missing element from the array without sorting
